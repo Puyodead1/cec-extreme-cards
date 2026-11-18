@@ -1,0 +1,16 @@
+# game binaries and data (not redistributable, extracted from the discs)
+bin/
+vend-*/
+# generated / build output
+gen152/
+gen170/
+obj/
+tools/gen/
+tools/obj/
+*.exe
+*.o
+linux/dongle/*.so
+__pycache__/
+# runtime output and releases
+prints/
+dist/
